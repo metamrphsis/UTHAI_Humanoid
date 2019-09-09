@@ -1,0 +1,8 @@
+prefix=/home/sytasch/GITHUB_CLONES/UTHAI_Humanoid/catkin_ws/install
+
+Name: kdl_parser_py
+Description: Description of kdl_parser_py
+Version: 1.12.10
+Cflags: 
+Libs: -L/home/sytasch/GITHUB_CLONES/UTHAI_Humanoid/catkin_ws/install/lib -lkdl_parser_py
+Requires: urdf

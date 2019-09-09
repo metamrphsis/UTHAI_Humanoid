@@ -1,0 +1,8 @@
+prefix=/home/sytasch/GITHUB_CLONES/UTHAI_Humanoid/catkin_ws/devel
+
+Name: kdlo
+Description: Description of kdlo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sytasch/GITHUB_CLONES/UTHAI_Humanoid/catkin_ws/devel/lib -lkdlo
+Requires: roscpp rospy

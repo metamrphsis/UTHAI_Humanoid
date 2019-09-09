@@ -1,0 +1,8 @@
+prefix=/home/sytasch/GITHUB_CLONES/UTHAI_Humanoid/catkin_ws/devel
+
+Name: uthai_gazebo
+Description: Description of uthai_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sytasch/GITHUB_CLONES/UTHAI_Humanoid/catkin_ws/devel/lib 
+Requires: 

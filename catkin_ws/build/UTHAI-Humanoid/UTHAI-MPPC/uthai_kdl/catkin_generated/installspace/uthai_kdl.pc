@@ -1,0 +1,8 @@
+prefix=/home/sytasch/GITHUB_CLONES/UTHAI_Humanoid/catkin_ws/install
+
+Name: uthai_kdl
+Description: Description of uthai_kdl
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sytasch/GITHUB_CLONES/UTHAI_Humanoid/catkin_ws/install/lib 
+Requires: 
